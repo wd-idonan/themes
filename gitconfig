@@ -1,0 +1,19 @@
+[core]
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+[user]
+	name = idonan
+	email = idonan@163.com
+[alias]
+	ci = commit
+	co = checkout
+	df = difftool
+	st = status
+	mg = merge --no-commit --squash
+[color]
+	ui = true
+[diff]
+	tool = vimdiff
+[difftool]
+	prompt = false
